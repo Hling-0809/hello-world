@@ -1,7 +1,5 @@
 # hello-world
 
-This repository is for practicing the GitHub Flow.
-
 👋 Hi, I’m @Hling-0809
 
 👀 I’m interested in playing badminton, riding bicycles and Yoga.
